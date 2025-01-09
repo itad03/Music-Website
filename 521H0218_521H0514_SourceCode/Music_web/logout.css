@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    background: -webkit-linear-gradient(to right, #155799, #159957);
+    background: linear-gradient(to right, #155799, #159957);
+    color: whitesmoke;
+}
+
+.container .row .border h4 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.container .row .border p {
+    color: white;
+    font-size: 25px;
+}
+
+.container .row .border p .t {
+    font-size: 30px;
+}
+
+.container .row .border .btn {
+    text-align: center;
+    width: 100%;
+    font-size: 30px;
+    font-weight: bold;
+}
